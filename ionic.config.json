@@ -1,5 +1,7 @@
 {
   "name": "RemotePhoto",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
